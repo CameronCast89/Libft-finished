@@ -73,7 +73,7 @@ SRC = ft_memset.c \
 				ft_sort_integer_table.c \
 				ft_ultimate_div_mod.c \
 				ft_iterative_power.c  \
-				**ft_split_whitespaces.c \
+				ft_split_whitespaces.c \
 				ft_word_len.c \
 				ft_count_words.c \
 
